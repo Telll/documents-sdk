@@ -2,5 +2,11 @@
     "plugins": [
         "theme-api"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "theme-api": {
+            "languages": "",
+            "split": true,
+            "theme": "dark"
+        }
+    }
 }
