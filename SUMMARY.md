@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * Colofon
+   * [Colofon](colofon.md)
 * [First Chapter](chapter1.md)
 
