@@ -125,7 +125,7 @@ ls SDK/telllSDK/build/js
 
 ```
 Copy it to your web server and begin using telll
-
+{% method -%}
 ### 2. Setup and configuration
 
 {% sample lang="js" -%}
@@ -196,4 +196,4 @@ myAdTest.login(null, function(){
     $('<input type="button" value="Telll Button">').appendTo('body').on('click', function(){myAdTest.showTelllBtn()});
  
 });
-
+{% endmethod %}
