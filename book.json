@@ -4,7 +4,7 @@
     ],
     "pluginsConfig": {
         "theme-api": {
-            "languages": "English",
+            "languages": "",
             "split": true,
             "theme": "dark"
         }
