@@ -1,7 +1,7 @@
 {
     "plugins": [
         "-theme-official",
-        "blackbeard",
+        "-blackbeard",
         "theme-digdocs"
     ],
     "pluginsConfig": {}
