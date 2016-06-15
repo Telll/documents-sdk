@@ -1,12 +1,8 @@
-# telll SDK
-
-[![Stories in Ready](https://badge.waffle.io/Telll/SDK.png?label=ready&title=Ready)](https://waffle.io/Telll/SDK)
-
 # [Telll core SDK](http://telll.github.io/SDK/)
 
 The SDK is a collection of classes and helpers to communicate with telll TWS (REST and Websockets services) and implement the widgets used in telll webapp.
 
-- License: GPLAffero 3.0 https://github.com/Telll/SDK/blob/master/LICENSE
+- License: GPL Affero 3.0 https://github.com/Telll/SDK/blob/master/LICENSE
 - Terms of Service: https://github.com/Telll/telll.github.io/wiki/Telll-Terms-of-Service
 - [Download telllSDK.js stable](https://raw.githubusercontent.com/Telll/webapp/master/www/js/telllSDK.js)
 - TWS docs: http://telll.github.io/tws/
@@ -38,7 +34,7 @@ View implementing the telll scheduling, sincronizes with a MockPlayer object.
 1. [MockPlayer](http://telll.github.io/SDK/telllSDK/MockPlayer.html)
 A simple iPlayer implementation for video tags. Syncs with a TagPlayer object.
 
-## interfaces
+## Interfaces
 [iView](http://telll.github.io/SDK/telllSDK/iView.html)
 Widgets and UI
 
