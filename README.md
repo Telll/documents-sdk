@@ -128,6 +128,7 @@ Copy it to your web server and begin using telll
 
 ### 2. Setup and configuration
 
+{% sample lang="js" -%}
 ```javascript
 /* Basic telll load with jQuery*/
 /* Example */
