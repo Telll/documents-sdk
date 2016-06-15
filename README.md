@@ -121,10 +121,9 @@ ls SDK/telllSDK/build/js
 
 ```
 Copy it to your web server and begin using telll
-{% method -%}
+
 ### 2. Setup and configuration
 
-{% sample lang="js" -%}
 ```javascript
 /* Basic telll load with jQuery*/
 /* Example */
@@ -193,4 +192,3 @@ myAdTest.login(null, function(){
  
 });
 ```
-{% endmethod %}
