@@ -196,4 +196,5 @@ myAdTest.login(null, function(){
     $('<input type="button" value="Telll Button">').appendTo('body').on('click', function(){myAdTest.showTelllBtn()});
  
 });
+```
 {% endmethod %}
