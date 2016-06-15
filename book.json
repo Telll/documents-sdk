@@ -2,7 +2,7 @@
     "plugins": [
         "-theme-official",
         "-blackbeard",
-        "theme-digdocs"
+        "-theme-digdocs"
     ],
     "pluginsConfig": {}
 }
